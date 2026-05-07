@@ -11,4 +11,4 @@ Ejemplo práctico de arquitectura para trabajar con Claude Code usando:
 - memory
 
 Proyecto base:
-Spring Boot + Java 21 + Maven
+Spring Boot + Java 21 + Maven 3.9.x
