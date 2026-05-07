@@ -1,0 +1,5 @@
+steps:
+  - analyze_diff
+  - check_rules
+  - validate_tests
+  - summarize_review

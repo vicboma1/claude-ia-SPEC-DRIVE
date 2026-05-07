@@ -1,0 +1,8 @@
+steps:
+  - reproduce_bug
+  - locate_code
+  - write_failing_test
+  - apply_patch
+  - run_tests
+  - run_lint
+  - generate_summary
